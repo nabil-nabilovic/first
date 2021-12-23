@@ -13,5 +13,6 @@ public class App
     	
         System.out.println( "informations PC Model = " + mypc.getModel()+ " RAM = "+mypc.getRam() + " hard disk = "+mypc.getHd() );
         
+        System.out.println( "informations PC Model " + mypc.getModel());
     }
 }
